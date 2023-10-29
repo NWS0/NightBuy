@@ -8,6 +8,9 @@ Version：Beta 0.1
 - ③ Copy main.html text paste to you new HTML file
 - ④ Press Ctrl+S to save the file
 - ⑤ Just open the html file from the file
+# 製作人員：
+- [自學三兄妹](https://www.youtube.com/@自學三兄妹) 用於展示
+
 
 
 
