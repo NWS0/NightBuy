@@ -1,3 +1,13 @@
+<p align="center">
+    <img src="https://i.imgur.com/ZiJ0r7y.png" style="width: 69%">
+</p>
+
+<div align="center">
+    
+[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/bJajFP3kCX)
+
+</div>
+
 # Info：
 Version：Beta 0.1
 # Install：
