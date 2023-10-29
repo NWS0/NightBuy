@@ -1,6 +1,6 @@
-# 資訊
-版本：Beta 0.1
-# 必要：
+# Info：
+Version：Beta 0.1
+# Necessary：
 - [Step1 Install Visual Studio Code](https://code.visualstudio.com/download)
 - [Step2 Open Visual Studio Code]
 - [Step3 Create a HTML file]
